@@ -9,14 +9,14 @@
     border-top: 1px solid #000;
 }
 .MMM-RainForecast-FR .rainFcTable td {
-    width: 25px;
+    width: 40px;
 }
 .MMM-RainForecast-FR .rainFcHours td {
-    font-size: 16px;
+    font-size: 14px;
     text-align: left !important;
 }
 .MMM-RainForecast-FR .rainFcHours td span {
-    margin-left: -18px;
+    margin-left: -14px;
 }
 .MMM-RainForecast-FR .raining {
     background-color: #fff;
